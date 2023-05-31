@@ -19,5 +19,9 @@ Ai个人微信接入chatgpt,文心一言,讯飞星火等ai大模型
 注意事项：当前仅支持微信3.9.2.23版本，如有问题，可联系作者tg:[@jack_ma_jack](https://t.me/jack_ma_jack)
 
 ![image](https://raw.githubusercontent.com/ChenQs/aiweixin/main/3.png)
+
+私聊：
 ![image](https://raw.githubusercontent.com/ChenQs/aiweixin/main/1.png)
+
+群聊：
 ![image](https://raw.githubusercontent.com/ChenQs/aiweixin/main/2.png)
