@@ -16,3 +16,7 @@ Ai个人微信接入chatgpt,文心一言,讯飞星火等ai大模型
 2).群聊，只要@它，就可以调用接口回复提问
 
 注意事项：当前仅支持微信3.9.2.23版本，如有问题，可联系作者tg:[@jack_ma_jack](https://t.me/jack_ma_jack)
+
+![image](https://raw.githubusercontent.com/ChenQs/aiweixin/main/3.png)
+![image](https://raw.githubusercontent.com/ChenQs/aiweixin/main/1.png)
+![image](https://raw.githubusercontent.com/ChenQs/aiweixin/main/2.png)
